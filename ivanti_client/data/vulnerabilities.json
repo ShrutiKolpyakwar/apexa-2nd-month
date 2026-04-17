@@ -1,0 +1,30 @@
+[
+    {
+        "device": "Laptop-1",
+        "severity": "High",
+        "cve": "CVE-2024-1234",
+        "description": "Remote code execution vulnerability",
+        "status": "Open"
+    },
+    {
+        "device": "Server-1",
+        "severity": "Medium",
+        "cve": "CVE-2024-5678",
+        "description": "Privilege escalation issue",
+        "status": "In Progress"
+    },
+    {
+        "device": "Desktop-3",
+        "severity": "Low",
+        "cve": "CVE-2023-9987",
+        "description": "Information disclosure vulnerability",
+        "status": "Resolved"
+    },
+    {
+        "device": "Database-Server",
+        "severity": "Critical",
+        "cve": "CVE-2025-1111",
+        "description": "SQL injection vulnerability",
+        "status": "Open"
+    }
+]

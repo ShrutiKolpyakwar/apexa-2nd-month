@@ -1,0 +1,39 @@
+{
+    "devices": [
+        {
+            "id": "dev-001",
+            "hostname": "DESKTOP-01",
+            "ipAddress": "192.168.1.10",
+            "os": "Windows 10",
+            "status": "online"
+        },
+        {
+            "id": "dev-002",
+            "hostname": "SERVER-01",
+            "ipAddress": "192.168.1.20",
+            "os": "Linux",
+            "status": "offline"
+        }
+    ],
+    "alerts": [
+        {
+            "alertId": "alert-101",
+            "severity": "High",
+            "description": "Malware detected",
+            "deviceId": "dev-001"
+        },
+        {
+            "alertId": "alert-102",
+            "severity": "Medium",
+            "description": "Suspicious login attempt",
+            "deviceId": "dev-002"
+        }
+    ],
+    "threats": [
+        {
+            "threatId": "th-001",
+            "type": "Ransomware",
+            "status": "active"
+        }
+    ]
+}

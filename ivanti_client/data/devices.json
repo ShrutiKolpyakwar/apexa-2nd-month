@@ -1,0 +1,30 @@
+[
+    {
+        "id": "123",
+        "name": "Device-A",
+        "type": "Laptop",
+        "status": "Active",
+        "os": "Windows 11"
+    },
+    {
+        "id": "124",
+        "name": "Device-B",
+        "type": "Server",
+        "status": "Inactive",
+        "os": "Linux"
+    },
+    {
+        "id": "125",
+        "name": "Device-C",
+        "type": "Desktop",
+        "status": "Active",
+        "os": "Windows 10"
+    },
+    {
+        "id": "126",
+        "name": "Device-D",
+        "type": "Database Server",
+        "status": "Active",
+        "os": "Ubuntu"
+    }
+]
